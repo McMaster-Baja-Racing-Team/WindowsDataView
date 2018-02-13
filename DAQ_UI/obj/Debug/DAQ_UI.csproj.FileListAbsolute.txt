@@ -1,0 +1,10 @@
+C:\Users\noahz.DESKTOP-D1PROQO\Documents\Noah\Baja\DAQ_UI\DAQ_UI\bin\Debug\DAQ_UI.exe.config
+C:\Users\noahz.DESKTOP-D1PROQO\Documents\Noah\Baja\DAQ_UI\DAQ_UI\bin\Debug\DAQ_UI.exe
+C:\Users\noahz.DESKTOP-D1PROQO\Documents\Noah\Baja\DAQ_UI\DAQ_UI\bin\Debug\DAQ_UI.pdb
+C:\Users\noahz.DESKTOP-D1PROQO\Documents\Noah\Baja\DAQ_UI\DAQ_UI\obj\Debug\DAQ_UI.csprojResolveAssemblyReference.cache
+C:\Users\noahz.DESKTOP-D1PROQO\Documents\Noah\Baja\DAQ_UI\DAQ_UI\obj\Debug\DAQ_UI.DataPage.resources
+C:\Users\noahz.DESKTOP-D1PROQO\Documents\Noah\Baja\DAQ_UI\DAQ_UI\obj\Debug\DAQ_UI.Properties.Resources.resources
+C:\Users\noahz.DESKTOP-D1PROQO\Documents\Noah\Baja\DAQ_UI\DAQ_UI\obj\Debug\DAQ_UI.csproj.GenerateResource.Cache
+C:\Users\noahz.DESKTOP-D1PROQO\Documents\Noah\Baja\DAQ_UI\DAQ_UI\obj\Debug\DAQ_UI.exe
+C:\Users\noahz.DESKTOP-D1PROQO\Documents\Noah\Baja\DAQ_UI\DAQ_UI\obj\Debug\DAQ_UI.pdb
+C:\Users\noahz.DESKTOP-D1PROQO\Documents\Noah\Baja\DAQ_UI\DAQ_UI\obj\Debug\DAQ_UI.SettingsWindow.resources
